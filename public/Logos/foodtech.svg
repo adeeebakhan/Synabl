@@ -1,0 +1,8 @@
+
+<svg width="200" height="60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="60" fill="#fff"/>
+  <path d="M40 40 Q40 20 60 20 Q80 20 80 40 Z" fill="#FF7043"/>
+  <circle cx="60" cy="18" r="5" fill="#F44336"/>
+  <text x="90" y="35" font-family="Verdana" font-size="20" fill="#222">FoodTech</text>
+  <text x="90" y="50" font-family="Verdana" font-size="10" fill="#555">Food Innovation</text>
+</svg>

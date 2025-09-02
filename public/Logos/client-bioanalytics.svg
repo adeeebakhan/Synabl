@@ -1,0 +1,8 @@
+<svg width="120" height="80" viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="80" fill="white" stroke="#0d47a1" stroke-width="2" rx="5"/>
+  <circle cx="30" cy="25" r="4" fill="#1976d2"/>
+  <circle cx="40" cy="30" r="3" fill="#42a5f5"/>
+  <circle cx="35" cy="35" r="2" fill="#0d47a1"/>
+  <text x="60" y="30" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#0d47a1">BioAnalytics</text>
+  <text x="60" y="45" font-family="Arial, sans-serif" font-size="10" fill="#666">Bio Research</text>
+</svg>

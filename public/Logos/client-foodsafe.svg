@@ -1,0 +1,7 @@
+<svg width="120" height="80" viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="80" fill="white" stroke="#0d47a1" stroke-width="2" rx="5"/>
+  <path d="M 30 20 L 45 20 L 42 35 L 33 35 Z" fill="#42a5f5"/>
+  <circle cx="37" cy="27" r="2" fill="white"/>
+  <text x="60" y="30" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0d47a1">FoodSafe</text>
+  <text x="60" y="45" font-family="Arial, sans-serif" font-size="10" fill="#666">Food Safety</text>
+</svg>

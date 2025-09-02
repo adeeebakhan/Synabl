@@ -1,0 +1,9 @@
+
+<svg width="200" height="60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="60" fill="#ffffff"/>
+  <circle cx="40" cy="30" r="14" stroke="#222" stroke-width="2" fill="#EEEEEE"/>
+  <line x1="40" y1="16" x2="40" y2="44" stroke="#222" stroke-width="2"/>
+  <line x1="26" y1="30" x2="54" y2="30" stroke="#222" stroke-width="2"/>
+  <text x="70" y="35" font-family="Verdana" font-size="20" fill="#222">SportAI</text>
+  <text x="70" y="50" font-family="Verdana" font-size="10" fill="#555">Sports Analytics</text>
+</svg>

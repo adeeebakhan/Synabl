@@ -1,0 +1,7 @@
+
+<svg width="200" height="60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="60" fill="#ffffff"/>
+  <path d="M20 35 Q30 15 40 35 T60 35" stroke="#4CAF50" fill="none" stroke-width="3"/>
+  <text x="70" y="35" font-family="Verdana" font-size="20" fill="#222">NutriTech</text>
+  <text x="70" y="50" font-family="Verdana" font-size="10" fill="#555">Nutrition Science</text>
+</svg>
